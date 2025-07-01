@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Ankit Jaiswal 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Python+Engineer;Tkinter+%7C+PyQt5+%7C+Django+Developer;Open+Source+Contributor&center=true&width=440&height=45&color=00BFFF&vCenter=true&size=22">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Python+Developer;Tkinter+%7C+PyQt5+%7C+Django+Developer;Open+Source+Contributor&center=true&width=440&height=45&color=00BFFF&vCenter=true&size=22">
 </p>
 
 ---
